@@ -1,0 +1,18 @@
+<resources>
+
+    <string name="app_name">Horoscopo</string>
+    <string name="menu_settings">Settings</string>
+    <string name="Boton">Comprobar</string><string name="Input">08/09/1988</string><string name="Dragon">Dragon</string>
+    <string name="Texto">El calendario lunar chino es el más largo registro cronológico de la historia, 
+        que data de 2637 aC cuando el primer ciclo del zodíaco se introdujo. Un ciclo completo dura 60 años 
+        y se compone de cinco ciclos simples de 12 años cada uno. El ciclo 78 se inició en febrero de 1984, 
+        y finalizará en febrero de 2044. Doce animales fueron asignados a cada uno de los 12 años, cuando, 
+        según la leyenda, Buda convocó a todos los animales frente a él antes de que partiese de la Tierra. \n\n
+        
+        Sólo doce animales vinieron a despedirse de él. Como recompensa nombró un año con el nombre de cada
+         uno en el orden en que llegaron. Primero fue la Rata, a continuación el Buey, el Perro, el Tigre, 
+         la Liebre, el Dragón, la Serpiente, el Caballo, la Cabra, el Mono, el Gallo, y el Jabalí. Así, 
+         tenemos los doce signos animales de hoy. El animal que gobierna el año en que naciste ejerce una 
+         profunda influencia en tu vida. &quot;Este es el animal que se esconde en tu corazón&quot;.</string>
+         
+</resources>

@@ -1,0 +1,21 @@
+INDEX VERSION 1.126+C:\Users\DJVicio\android\.metadata\.plugins\org.eclipse.jdt.core
+798174398.index
+4122040688.index
+2356011476.index
+2029866607.index
+2192992742.index
+2332042701.index
+608666224.index
+1411560374.index
+2284727013.index
+3723830531.index
+302609527.index
+2325432274.index
+358920302.index
+3203595303.index
+469407563.index
+1195400020.index
+1284830618.index
+1695433953.index
+4228322651.index
+1650688248.index
